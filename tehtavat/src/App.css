@@ -1,0 +1,12 @@
+h1 {
+  text-transform: uppercase;
+  background: linear-gradient(#f5f7f7, #e1e3e1);
+  font-family: "Lucida Console", Monaco, monospace;
+  padding: 1rem;
+  border-radius: 1rem;
+  display: inline-block;
+}
+
+.page {
+  text-align: center;
+}
